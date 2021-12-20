@@ -1,2 +1,0 @@
-# SubmoduleRepository
-for submod
