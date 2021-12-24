@@ -1,0 +1,3 @@
+[submodule "Submod"]
+	path = Submod
+	url = https://github.com/AntonRafalskyi/TrainingRepository.git
